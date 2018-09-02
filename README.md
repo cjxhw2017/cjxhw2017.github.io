@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢 迎 来 到 鑫 世 界
 
 You can use the [editor on GitHub](https://github.com/cjxhw2017/cjxhw2017.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
